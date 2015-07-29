@@ -4,16 +4,14 @@
 	color: #0000000;
 }
 
-body{
-
-    text-align: center;
+body{      
     background-color: #FFAFO;
-    font-family: "Arial, Helvetica, sans-serif;"
-      
+    font-family: "Arial, Helvetica, sans-serif;"   
 }
 h1 {
   color: #191970;
   font-family: "Arial, Helvetica, sans-serif; " font-weight; bold;
+  text-align: center;
 }
 h2 {
   color: #FF4500;
@@ -25,13 +23,13 @@ h3 {
   color: #FF4500;
   font-size: 16 px;
   margin:0 0 8 px;
-  text-align: center;
+  
 }
 h4 {
   color: #191970;
   font-size: 8 px;
   margin: 0 0 8 px;
-  text-align: center;
+  
 }
 h5 {
   color: #191970;
@@ -40,6 +38,7 @@ h6 {
   color: #191970;
 }
 p {margin: 25x 50x;
+  color: #191970;
 }
 .content{
 	width: 600 px;
@@ -47,7 +46,7 @@ p {margin: 25x 50x;
 }
 .navlinks{
 	color:#ff000;
-	border-top: 2px solid#ff000;
+	border-top: 2 px solid#ff000;
 	text-transform: none;
 
 }
