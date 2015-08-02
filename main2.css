@@ -9,8 +9,12 @@ head{
 #title{
 	margin:150 px auto 250 px;
 	padding: 64 px;
-	color: #0000000;
+	font-family:'Arial, Helvetica, Sans-serif;  
+  font-size: 60 px;
+  color: #0000000;
 }
+
+
 #nav {
   background-color:#ADD8E6;
   font-color: white;
@@ -19,7 +23,6 @@ head{
 }
 body{      
     background-color: #FFAFO;
-    font-family: "Arial, Helvetica, sans-serif;" 
     margin-left: 50 px;
     margin-right: 50 px;
     margin-top: 30 px;
@@ -32,12 +35,14 @@ body{
 }
 h1 {
   color: #191970;
-  font-family: "Arial, Helvetica, sans-serif; "font-weight;bold;
-  text-align: center;
+  font-family:'Arial, Helvetica, sans-serif;'
+  font-weight; 48 px;
+  text-align:center;
 }
 h2 {
-  color: #FF4500;
-  font-size:32 px;
+  font-color: #FF4500;
+  font-family:'Cinzel; 
+  font-weight: normal 400;
   margin:0 0 8 px;
   text-align: center;
 }
@@ -63,12 +68,10 @@ h5 {
 h6 { 
   color: #191970;
 }
-p {margin: 25x 50x;
+p {margin: 25x 50x; left:
   color: #191970;
-
 .content{
 	width: 600 px;
-
 }
 .navlinks{
 	color:#ff000;
