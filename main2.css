@@ -11,7 +11,7 @@ head{
 	padding: 64 px;
 	font-family:'Arial, Helvetica, Sans-serif;  
   font-size: 60 px;
-  color: #0000000;
+  color: #FF0000;
 }
 
 
@@ -22,10 +22,21 @@ head{
   font-weight: bold;
 }
 body{      
-    background-color: #FFAFO;
+    background-color: #FFFAFO;
     margin-left: 50 px;
     margin-right: 50 px;
     margin-top: 30 px;
+}
+.infobox {
+    background-color: #FFFAF0;
+    text-align: center;
+    padding: 8px 32px; margin: 0px 10%;
+    border: 8px #cca solid; color: #6495ED;
+    font-family: 'Antic Slab' serif;
+    font-size: 1.6em;
+    margin: 16px;
+} 
+
 }
 # box1{
   margin: 20 px;
