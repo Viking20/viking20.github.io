@@ -35,19 +35,19 @@ body{
 }
 h1 {
   color: #191970;
-  font-family:'Arial, Helvetica, sans-serif;'
-  font-weight; 48 px;
+  font-family:'Arial, Helvetica, sans-serif;
+  font-weight; 60 px;
   text-align:center;
 }
 h2 {
-  font-color: #FF4500;
-  font-family:'Cinzel; 
-  font-weight: normal 400;
+  font-color: #FF4040;
+  font-family:'Antic Slab', Serif; 
+  font-weight: normal 400; 
   margin:0 0 8 px;
   text-align: center;
 }
 h3 {
-  color: #FF4500;
+  font-color: #FF4040;
   font-size: 16 px;
   margin-top: 25 px;
   margin-right: 50 px;
@@ -78,6 +78,5 @@ p {margin: 25x 50x; left:
 	border-top: 2 px solid#ff000;
 	text-transform: none;
 
-}
 
 
