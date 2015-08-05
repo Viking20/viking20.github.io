@@ -11,10 +11,17 @@ head{
   font-family:'Arial, Helvetica, Sans-serif;  
   font-size: 60 px;
   color: #FF0000;
+  background-color: #FFFAF0;
+}
+}
+.navlinks{
+  color:#ff0000;
+  border-top: 2 px solid#ff0000;
+  text-transform: none;
 }
 }
 body{      
-    background-color: #FFFAFO; 
+    background-color: #E0FFFF; 
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 50 px;
     margin-right: 50 px;
@@ -65,10 +72,6 @@ p {
 .content{
 	width: 600 px;
 }
-.navlinks{
-	color:#ff000;
-	border-top: 2 px solid#ff000;
-	text-transform: none;
 
 
 
