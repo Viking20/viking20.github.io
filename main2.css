@@ -2,8 +2,8 @@
 head{
  }
 #title{
-  margin: 20px;
-  padding: 64px;
+  margin: 2px;
+  padding: 2px;
   font-family:Arial, Helvetica, Sans-serif;  
   color: #FF0000;
 }
@@ -20,12 +20,17 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 50px;
     margin-right: 50px;
-    margin-top: 30px;
+    margin-top: 40px;
+}
+.photoinfo{
+width: 240px; height: 250 px;
+margin: 30px;
+display: inline-block;
 }
 
 h1 {
   color: #000080;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Times, Georgia, serif;
   font-weight: 700;
   font-size: 48px;
   text-align:center;
@@ -33,7 +38,7 @@ h1 {
 
 h2 {
   font-color: #FF4040;
-  font-family: Arial, Helvetica, sans-Serif; 
+  font-family: Times, Georgia, serif;
   font-weight: normal 400; 
   margin:0 0 8px;
   text-align: center;
@@ -63,7 +68,8 @@ p {
    margin: 25px 50px;
  } 
 .content{
-	width: 600px;
+	width: 200px;
+  text-align;
 }
 
 
