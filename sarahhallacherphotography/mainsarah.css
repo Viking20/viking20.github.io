@@ -1,45 +1,40 @@
+}
 head{
  }
 #title{
-  margin: 1px;
-  padding: 1px;
+  margin: 0px;
+  padding: 0px;
   font-family: Arial,helvetica, sans-serif;  
   color: #000000;
 }
 #navlinks{
+  font-size: 15px;
   font-color: #000000;
   font-family: Arial,helvetica, sans-serif;
   font-weight: bold;
   text-decoration: none;
   text-transform: lowercase;
-  text-align: right;
-  margin: 40: 40px;
-  margin-right: 40px;
-  margin-left: 40px;
+  text-align: left;
+  margin-left: 60px;
+  width: 100px;
+  display: inline-block;
 }
 body{ 
     background-color: #DCDCDC;     
     font-family: Arial,helvetica, sans-serif;
-    margin-left: 30px;
+    margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
     margin-bottom: 0px;
 }
-}
 .photoinfo1{
-display: inline-block;
-margin: 0;
+  display: inline-block;
+  margin-left: 30px;
 }
-}
-.photoinfo2{
-margin: 10px;
-display: inline-block;
-padding-right: 10px;
-padding-left: 10px;
-}
-.contactinfo{
-display: inline-block;
-margin-right: 40px;
+.photoinfotwo{
+  display: inline-block;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 h1 {
   color: #000000;
@@ -58,19 +53,17 @@ h2 {
 }
 h3 {
   font-color: #000000;
-  font-size: 16px;
   margin-top: 25px;
   margin-right: 50px;
   margin-bottom: 60px;
   margin-left: 20px;
 }
- 
-}
 h4 {
   color: #000000;
   font-size: 8px;
   margin: 0 0 8px;
- }
+  display: inline-block;
+}
 h5 {
   color: #000000;
 }
@@ -79,14 +72,28 @@ h6 {
 }
 p {
    margin: 25px 50px;
- } 
+} 
 .content{
   width: 200px;
   text-align;
 }
 footer {
+  font-family: Arial,helvetica, sans-serif;
   display: inline-block;
-  font-size: h4;
+  font-size: 15px;
+  font-color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: lowercase;
+  text-align: left;
+  margin-right: 40px;
+}
+.blog{
+  display: inline-block;
+  text-align: center;
+  font-family: Arial,helvetica, sans-serif;
+  display: inline-block;
+  font-size: 15px;
 }
 
 
