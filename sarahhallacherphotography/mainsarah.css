@@ -14,25 +14,24 @@ nav{
   font-weight: bold;
   text-decoration: none;
   text-transform: lowercase;
-  text-align: left;
   margin-left: 28px;
   margin-right: 60px;
   width: 900px;
   padding: 1px;
   display: inline-block
 }
+nav a: link{
+  background-color: #A0522D;
+}
 a:visited{
-    color:#C7009D;
+    color:#BC8F8F;
     margin-left: 28px;
 }
 a:hover{
-  color:#C7009D;
+  color:#A52A2A;
   border-bottom:3px solid #C7009D;
   padding:0 0 2px;
 }
-
-
-
 body{ 
     background-color: #DCDCDC;     
     font-family: Arial,helvetica, sans-serif;
