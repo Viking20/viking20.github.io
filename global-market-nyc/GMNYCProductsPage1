@@ -1,0 +1,33 @@
+<!DOCTYPE!>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title> Global Market NYC </title>
+	<link rel="stylesheet" type "text/css" href="maingmnyc.css">
+</head>
+<body>
+<header>
+	<nav>
+		<a href="index.html"> Home </a>
+		<a href="index.html"> Log in/Register </a>
+		<a href="index.html"> Shop </a>
+		<a href="blog.html"> Cart </a>
+		<a href="blog.html"> Contact Us</a>
+		<a href="blog.html"> Facebook </a>
+		<a href="blog.html"> Twitter</a>
+	</nav>
+		<div class="wrap" id="title">	
+			<h1>Global Market NYC</h1>
+			<h2>
+				<em>Beautiful Collections from Around the World</em>
+			</h2>
+		</div>
+</header>
+	<br>
+	<div class="ProductRow1">
+		<div id="block1">item 1</div>
+		<div id="block2">item 2</div>
+		<div id="block3">item 3</div>
+	</div>
+</body>
+</html>
